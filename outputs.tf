@@ -1,3 +1,1 @@
-output "site_ids" {
-  value = incapsula_site.default
-}
+output "site" { value = incapsula_site.default }
